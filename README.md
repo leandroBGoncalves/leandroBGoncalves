@@ -3,7 +3,7 @@
 with a focus on learning and excelling. becoming an excellent programmer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandroBGoncalves" alt="leandrogoncalves" /> </p>
 
-- 🔭 I’m currently working on [We.digi](https://www.wedigi.com.br/)
+- 🔭 I’m currently working on [Toor Tecnologia](https://toor.com.br/)
 
 - 👨‍💻 All of my projects are available at [leandro.goncalves.net.br](https://github.com/leandroBGoncalves)
 
