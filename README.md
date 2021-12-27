@@ -7,7 +7,7 @@ with a focus on learning and excelling. becoming an excellent programmer.</h3>
 
 - 👨‍💻 All of my projects are available at [leandro.goncalves.net.br](https://github.com/leandroBGoncalves)
 
-- 💬 Ask me about **JavaScript, HTML, CSS,**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJs, NextJs, StyledComponents, SASS**
 
 - 📫 How to reach me **leandrodebritogoncalves@gmail.com**
 
