@@ -1,13 +1,13 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro Gonçalves</h1>
-<h3 align="center">A Web Developer Front-End |
+<h3 align="center">A Web Developer Front-End and Mobile |
 with a focus on learning and excelling. becoming an excellent programmer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandroBGoncalves" alt="leandrogoncalves" /> </p>
 
-- 🔭 I’m currently working on [Toor Tecnologia](https://toor.com.br/)
+- 🔭 I’m currently working on [IntellectX Tecnologia](https://www.intellectx.com.br/)
 
 - 👨‍💻 All of my projects are available at [leandro.goncalves.net.br](https://github.com/leandroBGoncalves)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJs, NextJs, StyledComponents, SASS**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJs, React-Native, NextJs, StyledComponents, SASS**
 
 - 📫 How to reach me **leandrodebritogoncalves@gmail.com**
 
