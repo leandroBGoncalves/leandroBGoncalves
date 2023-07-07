@@ -7,7 +7,7 @@ with a focus on learning and excelling. becoming an excellent programmer.</h3>
 
 - 👨‍💻 All of my projects are available at [leandro.goncalves.net.br](https://github.com/leandroBGoncalves)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJs, React-Native, NextJs, StyledComponents, SASS**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJs, React-Native, NextJs, StyledComponents, SASS, Redux-sagas, react-hooks**
 
 - 📫 How to reach me **leandrodebritogoncalves@gmail.com**
 
@@ -19,7 +19,8 @@ with a focus on learning and excelling. becoming an excellent programmer.</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/></p><p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/redux-original.svg" alt="nodejs" width="25" height="25"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=leandroBGoncalves&show_icons=true" alt="leandroBGoncalves"/> 
 </p>
 
