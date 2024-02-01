@@ -29,7 +29,7 @@ with a focus on learning and excelling.</h3>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leandro-de-brito-gon%C3%A7alves-540232ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandrogoncalves" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/leandro-de-brito-gon%C3%A7alves-540232ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandrogoncalves" height="20" width="20" color="#FFFFFF" /></a>
 <a href="https://www.facebook.com/leandro.debritogoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="leandrogoncalves" height="20" width="20" /></a>
 <a href="https://www.instagram.com/leandro_goncalves25/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leandrogoncalves" height="20" width="20" /></a>
 </p>
