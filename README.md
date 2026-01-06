@@ -69,12 +69,12 @@ I am a Senior Software Engineer with over 4 years of experience delivering high-
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroBGoncalves&show_icons=true&theme=dracula&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2" alt="Leandro's Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroBGoncalves&theme=dark&show_icons=true&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2" alt="Leandro's Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroBGoncalves&layout=compact&theme=dracula&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2" alt="Top Languages" />
   </a>
-</div>
+</div> -->
 
 ---
 
